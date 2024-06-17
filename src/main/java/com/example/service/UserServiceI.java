@@ -9,7 +9,7 @@ public interface UserServiceI {
     //CURD
 
     //CREATE
-    User createUser(User user);
+    User createUser1(User user);
 
     //UPDATE
     User updateUser(User user, Long userId);
